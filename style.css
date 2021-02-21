@@ -1,0 +1,32 @@
+h1, h2 {
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+        
+html {
+background-color: darkorange;
+text-align: center;
+font-family: system-ui;
+}
+
+figure {
+background-color: #EEE;
+border-radius: 20px;
+}
+
+figure p {
+width: 100%;
+background-color: cadetblue;
+}
+
+figcaption {
+vertical-align: bottom;
+width: 100%;
+background-color: #AAA;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
+
+.figure_img_container {
+padding: 8px;
+}
